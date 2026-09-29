@@ -76,7 +76,7 @@ The system automates part of the software quality analysis process by combining 
 <h3 align="left">QA & Testing:</h3>
 
 <p align="left">
-  <a href="https://www.selenium.dev" target="blank" rel="noreferrer">
+  <a target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
 
