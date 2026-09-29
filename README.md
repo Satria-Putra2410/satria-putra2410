@@ -1,16 +1,130 @@
 <h1 align="center">Hi 👋, I'm Satria Putra Wijaksana</h1>
-<h3 align="center">QA Engineer focused on Software Quality, Test Automation, Performance Testing, and AI-assisted Software Maintainability.</h3>
 
-- 🌱 I’m currently learning **Automation Testing**
+<h3 align="center">
+QA Engineer focused on Software Quality, Test Automation, Performance Testing, and AI-assisted Software Maintainability.
+</h3>
 
-- 📫 How to reach me **satriaptrw@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sm-mgV5IG8zLNR4Au6oa8QZmPyDGOL5L/view?usp=sharing](https://drive.google.com/file/d/1sm-mgV5IG8zLNR4Au6oa8QZmPyDGOL5L/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/satriaptrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satriaptrw" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/satriaptrw" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Satria%20Putra%20Wijaksana-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:satriaptrw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-satriaptrw-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+I'm an Informatics Engineering graduate with a strong interest in **Quality Assurance and Software Quality**.
+
+My experience includes:
+
+* 🔎 Functional and software quality testing
+* 🧪 Test case and test scenario design
+* ⚙️ Test automation and API testing
+* 📊 Performance testing using **k6**
+* 🔧 API testing using **Postman**
+* 🌐 Web automation using **Selenium**
+* 📈 Static code analysis using **SonarQube**
+* 🤖 AI-assisted software maintainability analysis
+* 🔄 Workflow automation using **n8n**
+* 🐳 Application environment management using **Docker**
+
+I'm continuously developing my skills in **Automation Testing** and looking for opportunities to contribute to software quality through systematic testing, automation, and continuous improvement.
+
+---
+
+### 🧪 QA Experience
+
+**Quality Assurance Intern — WGS**
+
+During my internship, I worked on software quality assurance activities including:
+
+* Creating test plans, test scenarios, and test cases
+* Performing functional testing
+* Reporting and documenting defects
+* Collaborating with developers and UI/UX teams
+* Performing API testing using Postman
+* Conducting load and stress testing using k6
+* Evaluating application behavior under different workloads
+
+---
+
+### 🤖 Thesis & Research
+
+My undergraduate thesis focused on **software maintainability evaluation and AI-assisted refactoring**.
+
+The research implemented an automated workflow using:
+
+* **n8n** — workflow orchestration
+* **SonarQube** — static code analysis
+* **LLM** — source-code analysis and refactoring recommendations
+* **RAG** — retrieval of software engineering knowledge
+* **Qdrant** — vector database
+* **Docker** — environment and service management
+
+The system automates part of the software quality analysis process by combining static analysis results with LLM-based analysis and software engineering knowledge.
+
+---
+
+### 🛠️ Tools & Technologies
+
+#### Quality Assurance & Testing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white" alt="k6"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+</p>
+
+#### Automation & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+#### Programming & Web Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+#### Frameworks & Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+---
+
+### 📄 Resume & Experience
+
+📌 **[View my Resume & Experience](https://drive.google.com/file/d/1sm-mgV5IG8zLNR4Au6oa8QZmPyDGOL5L/view?usp=sharing)**
+
+---
+
+### 📫 Contact
+
+* **Email:** [satriaptrw@gmail.com](mailto:satriaptrw@gmail.com)
+* **LinkedIn:** https://linkedin.com/in/satriaptrw
+
+---
+
+<p align="center">
+  <i>Interested in Software Quality, QA Automation, and building more reliable software.</i>
+</p>
