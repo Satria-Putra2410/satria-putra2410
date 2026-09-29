@@ -89,7 +89,7 @@ The system automates part of the software quality analysis process by combining 
   </a>
   
   <a>
-    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="k6"/>
+    <img src="https://img.shields.io/badge/k6-EA4B71?style=flat&logo=n8n&logoColor=blue" alt="k6"/>
   </a>
 
 </p>
@@ -97,12 +97,22 @@ The system automates part of the software quality analysis process by combining 
 #### Automation & DevOps
 
 <p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/>
+  </a>
 
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+
+  <a>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+</p>
 #### Programming & Web Development
 
 <p align="left">
